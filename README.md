@@ -73,7 +73,7 @@ The lexicon currently covers:
 
 * [Neurons](https://github.com/Benard-Kemp/Neural-Network-Lexicon/wiki/Neuron)
 * Weights and bias
-* Activation functions
+* [Activation functions](https://github.com/Benard-Kemp/Neural-Network-Lexicon/wiki/Activation-Functions)
 * Forward and backward passes
 * Loss functions
 
