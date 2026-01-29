@@ -79,11 +79,11 @@ The lexicon currently covers:
 
 ### Training and Optimization
 
-* Gradient descent and variants
-* Learning rates and schedules
-* Regularization techniques
+* [Gradient descent](https://github.com/Benard-Kemp/Neural-Network-Lexicon/wiki/Gradient-Descent) and variants
+* [Learning rates and schedules](https://github.com/Benard-Kemp/Neural-Network-Lexicon/wiki/Learning-Rate-Schedules)
+* [Regularization techniques](https://github.com/Benard-Kemp/Neural-Network-Lexicon/wiki/Regularization)
 * Initialization and normalization
-* Training loops and evaluation
+* [Training loops](https://github.com/Benard-Kemp/Neural-Network-Lexicon/wiki/Training-Loop) and evaluation
 
 ### Architectures
 
