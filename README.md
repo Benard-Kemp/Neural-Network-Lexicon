@@ -75,7 +75,7 @@ The lexicon currently covers:
 * [Weights and bias](https://github.com/Benard-Kemp/Neural-Network-Lexicon/wiki/Weights-and-Bias)
 * [Activation functions](https://github.com/Benard-Kemp/Neural-Network-Lexicon/wiki/Activation-Functions)
 * Forward and backward passes
-* Loss functions
+* [Loss functions] (https://github.com/Benard-Kemp/Neural-Network-Lexicon/wiki/Loss-Function)
 
 ### Training and Optimization
 
