@@ -71,39 +71,40 @@ The lexicon currently covers:
 
 ### Foundations
 
-Neurons
-Weights and bias
-Activation functions
-Forward and backward passes
-Loss functions
+* Neurons
+* Weights and bias
+* Activation functions
+* Forward and backward passes
+* Loss functions
 
 ### Training and Optimization
-Gradient descent and variants
-Learning rates and schedules
-Regularization techniques
-Initialization and normalization
-Training loops and evaluation
+
+* Gradient descent and variants
+* Learning rates and schedules
+* Regularization techniques
+* Initialization and normalization
+* Training loops and evaluation
 
 ### Architectures
 
-Dense networks
-Convolutional neural networks
-Transformers and attention mechanisms
-Residual connections
-Sequence models
-Generalization and Efficiency
-Overfitting and underfitting
-Bias–variance tradeoff
-Pruning and sparsity
-Quantization
-Transfer learning
+* Dense networks
+* Convolutional neural networks
+* Transformers and attention mechanisms
+* Residual connections
+* Sequence models
+* Generalization and Efficiency
+* Overfitting and underfitting
+* Bias–variance tradeoff
+* Pruning and sparsity
+* Quantization
+* Transfer learning
 
 ### Deployment and Scaling
 
-Evaluation metrics
-Deployment considerations
-Distributed training
-Continual learning
+* Evaluation metrics
+* Deployment considerations
+* Distributed training
+* Continual learning
 
 ---
 
