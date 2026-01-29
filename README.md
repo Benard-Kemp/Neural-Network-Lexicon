@@ -90,21 +90,21 @@ The lexicon currently covers:
 * Dense networks
 * Convolutional neural networks
 * Transformers and attention mechanisms
-* Residual connections
-* Sequence models
+* [Residual connections](https://github.com/Benard-Kemp/Neural-Network-Lexicon/wiki/Residual-Connections)
+* [Sequence models](https://github.com/Benard-Kemp/Neural-Network-Lexicon/wiki/Sequence-Models)
 * Generalization and Efficiency
 * Overfitting and underfitting
-* Bias–variance tradeoff
+* [Bias–variance tradeoff](https://github.com/Benard-Kemp/Neural-Network-Lexicon/wiki/Bias%E2%80%93Variance-Tradeoff)
 * Pruning and sparsity
-* Quantization
-* Transfer learning
+* [Quantization](https://github.com/Benard-Kemp/Neural-Network-Lexicon/wiki/Quantization)
+* [Transfer learning](https://github.com/Benard-Kemp/Neural-Network-Lexicon/wiki/Transfer-Learning)
 
 ### Deployment and Scaling
 
-* Evaluation metrics
+* [Evaluation metrics](https://github.com/Benard-Kemp/Neural-Network-Lexicon/wiki/Evaluation-Metrics)
 * Deployment considerations
-* Distributed training
-* Continual learning
+* [Distributed training](https://github.com/Benard-Kemp/Neural-Network-Lexicon/wiki/Distributed-Training)
+* [Continual learning](https://github.com/Benard-Kemp/Neural-Network-Lexicon/wiki/Continual-Learning)
 
 ---
 
