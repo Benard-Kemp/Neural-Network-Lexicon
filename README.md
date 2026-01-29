@@ -71,7 +71,7 @@ The lexicon currently covers:
 
 ### Foundations
 
-* Neurons
+* [Neurons](https://github.com/Benard-Kemp/Neural-Network-Lexicon/wiki/Neuron)
 * Weights and bias
 * Activation functions
 * Forward and backward passes
