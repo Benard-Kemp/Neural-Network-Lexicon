@@ -11,3 +11,12 @@ A neuron:
 
 ```bash
 python basic_neuron.py
+```
+
+## What to Try
+
+* Change one input value
+* Flip the sign of a weight
+* Set the bias to zero
+
+Observe how the output changes.

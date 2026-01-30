@@ -12,3 +12,26 @@ Activation functions introduce **non-linearity**, which is essential for neural 
 ```bash
 python sigmoid.py
 python relu.py
+```
+
+## What to Observe
+
+### Sigmoid
+
+* Large negative inputs produce values close to 0
+* Large positive inputs produce values close to 1
+* Around 0, sigmoid changes most quickly
+
+#### ReLU
+
+* Negative inputs become 0
+* Positive inputs pass through unchanged
+* ReLU is simple and widely used in hidden layers
+
+## What to Try
+
+* Add more test values (e.g., -10, 10)
+* Compare how sigmoid and ReLU treat negative inputs
+* Change the test ranges and see how outputs behave
+
+Goal: build intuition for how activations shape signals flowing through a network.
